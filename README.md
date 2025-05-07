@@ -37,7 +37,7 @@ I'm currently in the **LSE Data Analytics Career Accelerator**, applying Python,
 
 ## 🔍 Current Work
 
-I'm currently working on a Bank of England project under LSE's career accelerator. The goal is to explore how central bank communications (speeches) relate to economic indicators using NLP, regression, and data visualisation. This involves filtering speeches by speaker type (e.g. governor vs staff), analyzing sentiment, and linking patterns to wage growth and macro trends.
+I'm currently working on a Bank of England project under LSE's career accelerator. The goal is to explore how central bank communications (speeches) relate to economic indicators using NLP, regression, and data visualisation. This involves filtering speeches by speaker type (e.g. governor vs staff), analyzing sentiment, and identifying patterns across different economic periods and indicators.
 
 ---
 
