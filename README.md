@@ -17,8 +17,6 @@ I'm currently in the **LSE Data Analytics Career Accelerator**, applying Python,
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   &nbsp;&nbsp;
