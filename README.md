@@ -8,16 +8,10 @@ I'm currently in the **LSE Data Analytics Career Accelerator**, applying Python,
 
 ## 🧠 Analytical Skills
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- R (dplyr, ggplot2)
-- SQL
-- Tableau
-- Web Scraping (BeautifulSoup)
-- APIs
-- A/B Testing
-- Classification Models, Decision Trees, Random Forests, Regression
-- Sentiment Analysis (VADER, TextBlob)
-
+Python · R · SQL · Tableau · Jupyter  
+Data wrangling, visualisation, and EDA  
+Machine learning (classification, regression, clustering)  
+NLP (VADER, TextBlob) · A/B testing · APIs · Web scraping
 ---
 
 ## 🛠️ Languages and Tools
