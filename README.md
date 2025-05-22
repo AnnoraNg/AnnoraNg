@@ -37,6 +37,7 @@ I'm currently in the **LSE Data Analytics Career Accelerator**, applying Python,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" alt="Illustrator" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  &nbsp;&nbsp;
   <img src="./google-analytics.png" height="30" alt="Google Analytics" />
   &nbsp;&nbsp;
   <img src="./canva.png" height="30" alt="Canva" />
