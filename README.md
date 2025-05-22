@@ -1,8 +1,17 @@
 # 👋 Hi, I'm Annora Ng
 
-💡 **Aspiring Data Analyst** | Digital Marketer | Data-driven
+🎯 Digital Marketer | Aspiring Data-Driven Strategist | Marketing + Analytics
 
-I'm currently in the **LSE Data Analytics Career Accelerator**, applying Python, R, SQL, and Tableau to solve real-world business problems. My academic foundation in business and hands-on experience in marketing gives me a sharp lens for translating data into actionable insights.
+I’m a marketing professional with experience in both B2C and B2B, skilled in running digital campaigns, crafting brand narratives, and using social platforms to drive business outcomes. Over time, I’ve grown increasingly interested in using data to make smarter marketing decisions.
+
+I'm currently upskilling through the **LSE Data Analytics Career Accelerator**, applying Python, R, SQL, and Tableau to solve real-world business problems. My academic foundation in business and hands-on experience in marketing gives me a sharp lens for translating data into actionable insights.
+
+---
+
+## 💡 What I Bring
+- Marketing-first mindset with a data-enabled approach
+- Hands-on experience with digital ads, content strategy, and campaign reporting
+- Technical grounding to connect business questions with data insights
 
 ---
 
