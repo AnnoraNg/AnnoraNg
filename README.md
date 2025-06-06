@@ -55,12 +55,12 @@ I'm currently upskilling through the **LSE Data Analytics Career Accelerator**, 
 
 ## 🎓 Certifications
 
-| 📄 Certification | 🔗 Credential |
-|------------------|----------------|
-| Apple Search Ads Certified | [View](https://certification-ads.apple.com/certificate/67MLz9ttMi) |
-| Meta Digital Marketing Associate | [View](https://www.credly.com/badges/a9228062-d6aa-4422-8c28-44dbb0dc0db0/linked_in_profile) |
-| Product Management – General Assembly | [View](https://drive.google.com/file/d/1CUbRs_OXtWBZ1--iqjsI7uuzfN3aixPl/view) |
-| Intro to User Experience Design – Smartcademy | [View](https://drive.google.com/file/d/1KZs2cZfrtuk1RhueJgCqwhpC5H6NgpSN/view) |
+| 📄 Certification |
+|------------------|
+| [**Apple Search Ads Certified**](https://certification-ads.apple.com/certificate/67MLz9ttMi) |
+| [**Meta Digital Marketing Associate**](https://www.credly.com/badges/a9228062-d6aa-4422-8c28-44dbb0dc0db0/linked_in_profile) |
+| [**Product Management – General Assembly**](https://drive.google.com/file/d/1CUbRs_OXtWBZ1--iqjsI7uuzfN3aixPl/view) |
+| [**Intro to User Experience Design – Smartcademy**](https://drive.google.com/file/d/1KZs2cZfrtuk1RhueJgCqwhpC5H6NgpSN/view) |
 
 ## 🔍 Current Work
 
