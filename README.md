@@ -8,8 +8,6 @@ I recently completed the **LSE Data Analytics Career Accelerator**, where I appl
 
 ---
 
----
-
 ## 💡 What I Bring
 - Strategic mindset with hands-on experience across campaign execution and content delivery  
 - Ability to connect marketing intuition with structured, data-backed thinking  
