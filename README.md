@@ -63,10 +63,6 @@ I recently completed the **LSE Data Analytics Career Accelerator**, where I appl
 | [**Product Management – General Assembly**](https://drive.google.com/file/d/1CUbRs_OXtWBZ1--iqjsI7uuzfN3aixPl/view) |
 | [**Intro to User Experience Design – Smartcademy**](https://drive.google.com/file/d/1KZs2cZfrtuk1RhueJgCqwhpC5H6NgpSN/view) |
 
-## 🔍 Current Work
-
-I'm currently working on a Bank of England project under LSE's career accelerator. The goal is to explore how central bank communications (speeches) relate to economic indicators using NLP, regression, and data visualisation. This involves filtering speeches by speaker type (e.g. governor vs staff), analyzing sentiment, and identifying patterns across different economic periods and indicators.
-
 ---
 
 ## 📫 Let's Connect
