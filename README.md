@@ -1,26 +1,29 @@
 # 👋 Hi, I'm Annora Ng
 
-🎯 Digital Marketer | Aspiring Data-Driven Strategist | Marketing + Analytics
+🎯 **Marketing Strategist | Analytics-Focused | Business + Campaign Insights**
 
-I’m a marketing professional with experience in both B2C and B2B, skilled in running digital campaigns, crafting brand narratives, and using social platforms to drive business outcomes. Over time, I’ve grown increasingly interested in using data to make smarter marketing decisions.
+I'm a marketing and data professional with experience across B2C and B2B roles. I’ve supported regional digital campaigns, collaborated with creative and media teams, and worked on post-campaign analysis to guide business decisions. Over time, I’ve grown increasingly focused on using data to support strategy and improve execution.
 
-I'm currently upskilling through the **LSE Data Analytics Career Accelerator**, applying Python, R, SQL, and Tableau to solve real-world business problems. My academic foundation in business and hands-on experience in marketing gives me a sharp lens for translating data into actionable insights.
+I recently completed the **LSE Data Analytics Career Accelerator**, where I applied Python, R, SQL, and Tableau to solve real-world business problems. My background in business and marketing gives me a strong lens for translating data into relevant, actionable insights—especially in fast-moving environments like tech, product, or consumer brands.
+
+---
 
 ---
 
 ## 💡 What I Bring
-- Marketing-first mindset with a data-enabled approach
-- Hands-on experience with digital ads, content strategy, and campaign reporting
-- Technical grounding to connect business questions with data insights
+- Strategic mindset with hands-on experience across campaign execution and content delivery  
+- Ability to connect marketing intuition with structured, data-backed thinking  
+- Cross-functional experience across media, creative, and analytics teams  
 
 ---
 
 ## 🧠 Analytical Skills
 
-- Python · R · SQL · Tableau · Jupyter
-- Data wrangling, EDA, visualisation
-- ML: classification, regression, clustering
-- NLP (VADER, TextBlob), A/B testing, APIs, web scraping
+- Python · R · SQL · Tableau · Jupyter  
+- Data wrangling, EDA, and visualisation  
+- Machine Learning: classification, regression, clustering  
+- NLP (VADER, TextBlob), sentiment analysis  
+- A/B testing, API usage, and web scraping  
 
 ---
 
