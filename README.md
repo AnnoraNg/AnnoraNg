@@ -6,6 +6,8 @@ I'm a marketing and data professional with experience across B2C and B2B roles. 
 
 I recently completed the **LSE Data Analytics Career Accelerator**, where I applied Python, R, SQL, and Tableau to solve real-world business problems. My background in business and marketing gives me a strong lens for translating data into relevant, actionable insights—especially in fast-moving environments like tech, product, or consumer brands.
 
+🔗 [View my portfolio site](https://annorang.github.io/dataanalystprofile/)
+
 ---
 
 ## 💡 What I Bring
