@@ -74,4 +74,4 @@ I recently completed the **LSE Data Analytics Career Accelerator**, where I appl
 
 ---
 
-🌿 Nature lover. Data curious. Always learning.
+🌿 Nature lover. Data curious. Always learning. 💬 Feel free to reach out or open an issue if you'd like to chat or connect.
